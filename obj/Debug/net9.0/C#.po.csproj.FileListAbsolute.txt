@@ -40,3 +40,4 @@ C:\Users\edikf\OneDrive\Рабочий стол\program_corp\obj\Debug\net9.0\re
 C:\Users\edikf\OneDrive\Рабочий стол\program_corp\obj\Debug\net9.0\C#.po.pdb
 C:\Users\edikf\OneDrive\Рабочий стол\program_corp\obj\Debug\net9.0\C#.po.genruntimeconfig.cache
 C:\Users\edikf\OneDrive\Рабочий стол\program_corp\obj\Debug\net9.0\ref\C#.po.dll
+C:\Users\edikf\OneDrive\Рабочий стол\program_corp\obj\Debug\net9.0\C#.po.sourcelink.json
